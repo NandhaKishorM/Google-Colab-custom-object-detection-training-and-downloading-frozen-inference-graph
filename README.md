@@ -9,5 +9,5 @@ Making dataset
 |-annotations directory
   |-xmls directory
     |-annotations files (filename format: objectclass_id.xml)
-4. use resize_image.py to resize the images
+4. use image_resize.py to resize the images
     
