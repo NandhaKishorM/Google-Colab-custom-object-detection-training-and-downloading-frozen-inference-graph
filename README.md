@@ -10,4 +10,4 @@ Making dataset
   |-xmls directory
     |-annotations files (filename format: objectclass_id.xml)
 4. use image_resize.py to resize the images
-    
+ USe the testing_model.py to test your trained model using webcam   
